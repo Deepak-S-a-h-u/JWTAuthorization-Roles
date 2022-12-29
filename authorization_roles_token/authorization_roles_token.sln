@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31501.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "authorization_roles_token", "authorization_roles_token.csproj", "{81971D86-EA46-4F01-A58A-E5FF24253792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81971D86-EA46-4F01-A58A-E5FF24253792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81971D86-EA46-4F01-A58A-E5FF24253792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81971D86-EA46-4F01-A58A-E5FF24253792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81971D86-EA46-4F01-A58A-E5FF24253792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134AF1BD-6F85-4457-BEE0-C8A56B2F4184}
+	EndGlobalSection
+EndGlobal
